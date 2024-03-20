@@ -3,6 +3,7 @@ Este repositorio contiene una variedad de proyectos que he desarrollado utilizan
 El objetivo de estos proyectos es mostrar mis habilidades y experiencia en el campo del análisis de datos.
 
 Proyectos Incluidos:
+
 Python
 - Amazon Web Scraper.ipynb: proyecto sobre hacer web scrapping a un kindle de amazon y programar una alarma que te manda un email cuando el producto se ha rebajado. (Fuente de datos: Amazon.com)
 - Automatización Crypto API.ipynb: Se automatiza la API CoinMarketCap con el objetivo de estar pendiente de las variaciones de precio de las principales criptomonedas (Fuente de datos: CoinMarketCap.com)
@@ -24,6 +25,9 @@ Encantado de poder mostrarte estos proyectos y tener la oportunidad de agregar v
 Mis datos de contacto son los siguientes:
 
 Mario Soriano Bañuls
+
 datamario.ba@gmail.com
+
 Linkedin:
+
 ¡Gracias por esta oportunidad!
