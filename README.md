@@ -24,10 +24,12 @@ Power BI
 Encantado de poder mostrarte estos proyectos y tener la oportunidad de agregar valor a tu equipo como Analista de Datos. 
 Mis datos de contacto son los siguientes:
 
-Mario Soriano Bañuls
+Nombre: Mario Soriano Bañuls
 
-datamario.ba@gmail.com
+Email: datamario.ba@gmail.com
 
-Linkedin:
+Linkedin: www.linkedin.com/in/mario-soriano-bañuls-2255ab2bb
+
+
 
 ¡Gracias por esta oportunidad!
