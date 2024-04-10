@@ -1,3 +1,39 @@
+ENGLISH
+
+Welcome to my Data Analyst portfolio! This repository contains a variety of projects I have developed using Python, SQL, Excel, and Power BI visualizations. The aim of these projects is to showcase my skills and experience in the field of data analysis.
+
+Included Projects:
+
+Python
+
+Amazon Web Scraper.ipynb: Project to web scrape an Amazon Kindle and set up an alarm that sends you an email when the product is discounted. (Data Source: Amazon.com)
+Automated Crypto API.ipynb: Automating the CoinMarketCap API to monitor price variations of major cryptocurrencies. (Data Source: CoinMarketCap.com)
+SQL
+
+Real Estate Data Cleaning.sql: Data cleaning from SQL on housing in Nashville. (Data Source: kaggle.com)
+Covid-19 Project Code.sql: Data processing for visualization on deaths and vaccinations worldwide during Covid-19. (Data Source: OurWorldInData.com)
+Mental Health-related Deaths.sql: Data processing for my personal project of mapping mental health in Spain using Tableau. (Data Source: INE.es)
+Excel
+
+Bicycle Sales Excel Dashboard.xlsx: Creation of a dashboard using pivot tables in Excel on bicycle sales in the regions of Europe, North America, and the Pacific region. (Data Source: kaggle.com)
+Power BI
+
+Covid-19 Visualization Project.pbix: Visualization of deaths and vaccinations worldwide during Covid-19. (Data Source: OurWorldInData.com)
+Data Professional Survey Visualization.pbix: Visualization with information on salary and job satisfaction of various data professionals in North America. (Data Source: kaggle.com)
+I'm excited to showcase these projects and have the opportunity to add value to your team as a Data Analyst. 
+My contact details are as follows:
+
+Email: datamario.ba@gmail.com
+
+Linkedin: www.linkedin.com/in/mario-soriano-bañuls-2255ab2bb
+
+Tableau: https://public.tableau.com/app/profile/mario.soriano.ba.uls/vizzes
+
+
+Thank you for this opportunity!
+
+
+ESPAÑOL
 ¡Bienvenido a mi portafolio de proyectos como Analista de Datos! 
 Este repositorio contiene una variedad de proyectos que he desarrollado utilizando Python, SQL, Excel y visualizaciones de Power BI. 
 El objetivo de estos proyectos es mostrar mis habilidades y experiencia en el campo del análisis de datos.
