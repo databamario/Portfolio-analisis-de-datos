@@ -69,5 +69,4 @@ Linkedin: www.linkedin.com/in/mario-soriano-bañuls-2255ab2bb
 Tableau: https://public.tableau.com/app/profile/mario.soriano.ba.uls/vizzes
 
 
-
 ¡Gracias por esta oportunidad!
