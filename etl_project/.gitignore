@@ -1,0 +1,36 @@
+# Credenciales y secretos
+.env
+
+# Base de datos (opcional - descomenta si no quieres subirla)
+# coinmarketcap_etl.db
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Entorno virtual
+ETL/
+venv/
+env/
+ENV/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# Sistema
+.DS_Store
+Thumbs.db
+*.log
+
+# Temporal
+*.tmp
+*.bak
+*.swp
